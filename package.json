@@ -1,5 +1,5 @@
 {
-  "name": "cma",
+  "name": "zauver",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -19,6 +19,8 @@
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "angular-gauge-chart": "^0.5.2",
+    "angular2-signaturepad": "^2.8.0",
     "core-js": "^2.5.4",
     "fecha": "^3.0.2",
     "rxjs": "~6.3.3",
